@@ -3,21 +3,10 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className='main'>
+      <iframe width="100%" min-height="100%"
+        src="https://www.youtube.com/embed/DaMYTIE-6Jw?controls=0&autoplay=1&mute=1&loop=1">
+      </iframe>
     </div>
   );
 }
