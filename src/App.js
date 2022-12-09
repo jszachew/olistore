@@ -9,7 +9,7 @@ function App() {
     </div>
     <div className='main'>
     
-      <img src="konon-cycochy.gif">
+      <img alt="konon" src="konon-cycochy.gif">
       </img>
     </div>
 
