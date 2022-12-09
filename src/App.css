@@ -3,21 +3,22 @@
 }
 
 .main {
+  object-fit:contain;
   display: flex;
+  margin-top: 10vh;
   background-color: black;
-  width: 50%;
-  height: 80%;
+  width: fit-content;
 }
 
 .box{
   display: flex;
   align-items: center;
   flex-direction: column;
-  justify-content: space-around;
   background-color: black;
   height: 100vh;  
 }
 .greetings{
+  margin-top: 10vh;
   display: flex;
   color: white;
   font-size: xx-large;
