@@ -4,8 +4,8 @@ function App() {
   return (
     <div className="box">
 <div className="greetings">
-      <span>NIEBAWEM NA SPRZEDAZ</span>
-
+      <div>NIEBAWEM NA SPRZEDAZ</div>
+      <div>Administratorem strony jest:<br/> <b>sklepadmin@proton.me</b></div>
     </div>
     <div className='main'>
     
